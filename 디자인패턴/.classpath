@@ -11,5 +11,7 @@
 	<classpathentry kind="src" path="03.TemplateMethodPattern"/>
 	<classpathentry kind="src" path="04.FactoryMethodPattern"/>
 	<classpathentry kind="src" path="05.SingletonPattern"/>
+	<classpathentry kind="src" path="06.PrototypePattern"/>
+	<classpathentry kind="src" path="07.BuilderPattern"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
