@@ -1,0 +1,12 @@
+
+동일한 형태의 데이터를 가지고 있는걸 컨테이너 또는 에그리게이터
+Container/Aggregator
+Array
+Linked list
+tree
+graph
+table(DBMS)
+
+데이터를 가져올떄 내부구조가 달라 종류에 따라 가져오는 방식이 다름
+=>통일된 방법으로 데이터를 가져오는 방법이 iterator
+
